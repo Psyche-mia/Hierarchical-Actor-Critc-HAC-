@@ -1,5 +1,7 @@
-python: 3.6
-Tensorflow:1.5.0
-Gym: 0.9.1
-mujoco: 131
-mujoco_py:0.5.7
+gym=0.10.5, 
+
+mujoco-py=2.0.2.1, 
+
+tensorflow =1.13.1, 
+
+mujoco200
